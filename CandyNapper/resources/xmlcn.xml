@@ -1,0 +1,21 @@
+<CandyNapper>
+     <Map x="500" y="500"></Map>
+     <Player x="0" y="0"></Player>
+     <Enemies>
+     	<Enemy x="20" y="20" type="1"></Enemy>
+     	<Enemy x="30" y="20" type="1"></Enemy>
+     	<Enemy x="50" y="-20" type="2"></Enemy>
+     	<Enemy x="50" y="-20" type="3"></Enemy>
+     </Enemies>
+     <Obstacles>
+     	<Obstacle x="23" y="111" type="1"></Obstacle>
+     </Obstacles>
+     <Walls>
+	     <Wall>
+	       <Coords x="50" y="95"></Coords>
+	       <Coords x="50" y="105"></Coords>
+	       <Coords x="150" y="105"></Coords>
+	       <Coords x="150" y="95"></Coords>
+	     </Wall>
+	 </Walls>
+</CandyNapper>

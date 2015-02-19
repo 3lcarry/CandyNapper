@@ -1,0 +1,73 @@
+<CandyNapper>
+<!-- Contenedor del resto de cosas -->
+	<Fondo>
+		<!-- En el hito 1 pone que en el XML especificaremos el fondo... o sea que.. xDD -->
+		<ruta>
+			<!-- Path al fondo -->	
+		</ruta>
+	</Fondo>
+	<GameEntities>
+		<!-- Contenedor de las entidades -->
+		<GEDynamics>
+			<!-- Contenedor de las entidades dinamicas -->
+			<Player>
+				<!-- Especificacion del player, solo puede haber un tag asi -->
+				<x>
+							
+				</x>
+				<y>
+							
+				</y>	
+			</Player>
+			<!-- A continuacion irian el resto de entidades dinamicas -->
+			<GED>
+				<!-- Especificacion de cada una de las entidades dinamicas -->
+				<id>
+							
+				</id>
+				<x>
+							
+				</x>
+				<y>
+							
+				</y>	
+			</GED>
+			<GED>
+				<id>
+							
+				</id>	
+				<x>
+							
+				</x>
+				<y>
+							
+				</y>
+			</GED>
+		</GEDynamics>
+		<GEStatics>
+			<!-- Contenedor de todas las entidades Statics -->
+			<GES>
+				<id>
+							
+				</id>
+				<x>
+							
+				</x>
+				<y>
+							
+				</y>		
+			</GES>
+			<GES>
+				<id>
+							
+				</id>
+				<x>
+							
+				</x>
+				<y>
+							
+				</y>		
+			</GES>		
+		</GEStatics>		
+	</GameEntities>
+</CandyNapper>

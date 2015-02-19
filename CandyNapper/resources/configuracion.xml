@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<CandyNapper>
+	<Player x="0" y="0"></Player>
+	<Enemigos>
+		<Oso tipo="1" x="0" y="5"></Oso>
+	</Enemigos>
+	<Obstaculos>
+		<obstaculo x="10" y="0"></obstaculo>
+		<obstaculo x="-10" y="0"></obstaculo>
+		<obstaculo x="0" y="10"></obstaculo>
+		<obstaculo x="15" y="0"></obstaculo>
+	</Obstaculos>
+	<Mapa y="35" x="35" ruta="resources/fondo.jpg"></Mapa></CandyNapper>

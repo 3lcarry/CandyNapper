@@ -1,0 +1,25 @@
+<CandyNapper> 
+<Player x="10" y="10"></Player> 
+	<Enemies> 
+		<Enemy x="-113.621" y="94.1924" type="0" ></Enemy>
+		<Enemy x="42.8643" y="-34.0845" type="0" ></Enemy>
+		<Enemy x="-162.371" y="99.8893" type="1" ></Enemy>
+		<Enemy x="-113.621" y="-94.1924" type="0" ></Enemy>
+		<Enemy x="42.8643" y="34.0845" type="0" ></Enemy>
+		<Enemy x="-162.371" y="-99.8893" type="1" ></Enemy>
+	</Enemies> 
+	<Obstacles> 
+	</Obstacles> 
+	<Objects>
+		<Object x="0" y="-100" type="5" nextLevel="level3.xml"  killAll="0"  ></Object>
+		<Object x="34" y="51" type="4" ></Object>
+		<Object x="-39" y="-120" type="4" ></Object>
+		<Object x="-14" y="171" type="4" ></Object>
+		<Object x="100" y="100" type="4" ></Object>
+		<Object x="0" y="-94" type="4" ></Object>
+		<Object x="-100" y="100" type="4" ></Object>
+		<Object x="0" y="0" type="4" ></Object>
+		<Object x="100" y="-100" type="1" ></Object>
+	</Objects>
+</CandyNapper>
+

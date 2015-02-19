@@ -1,0 +1,5 @@
+#set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ../../../entregables)
+add_executable(test-adry test-adry.cpp)
+add_executable(main main.cpp)
+target_link_libraries(test-adry candy-ia candy-graphics)
+target_link_libraries(main candy-ia)

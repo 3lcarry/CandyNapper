@@ -1,0 +1,14 @@
+<CandyNapper> 
+<Player x="100" y="100"></Player> 
+	<Enemies> 
+		<Enemy x="0" y="0" type="0" ></Enemy>
+	</Enemies> 
+	<Obstacles> 
+		<Obstacle x="166" y="-176" type="0" ></Obstacle>
+		<Obstacle x="22" y="175" type="0" ></Obstacle>
+	</Obstacles> 
+	<Objects>
+		<Object x="-100" y="-100" type="5" nextLevel="" killAll="1" > </Object>
+	</Objects>
+</CandyNapper>
+
